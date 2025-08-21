@@ -16,3 +16,10 @@ When I create more advanced or complete projects, they will be saved in **separa
 ---
 
 💡 This is a record of my growth as a front-end developer and a reference for future projects.
+---
+### 🛠️ How to Run
+
+1. **Clone the repository**  
+```bash
+git clone https://github.com/YourUsername/frontend-study-path.git
+cd frontend-study-path
